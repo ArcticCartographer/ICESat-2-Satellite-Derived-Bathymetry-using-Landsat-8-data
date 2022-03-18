@@ -7,5 +7,5 @@ Programs needed to complete this code include but are not limited to:
 - MATLAB to run the the refraction, collocation, and SDB algorithms. 
 - The algorithms for refraction correction have been adapted for MATLAB from equations validated by Parrish, C., Magruder, L., Neuenschwander, A., Forfinski-Sarkozi, N., Alonzo, M., Jasinski, M. 2019. "Validation of ICESat-2 ATLAS Bathymetry and Analysis of ATLASs Bathymetric Mapping Performance" Remote Sensing 11, no. 14: 1634.
 https://doi.org/10.3390/rs11141634
-For more information regarding the methodology and study area used to derive this code, please reference the thesis document included in the GITHUB repository. 
+For more information regarding the methodology and study area used to derive this code, please reference the thesis document titled "Satellite Derived Bathymetry in the Canadian Archipelago Using Multi-spectral and LiDAR Space-based Remote Sensing Natalie Treadwell" included in the GITHUB repository. 
 Contact: Natalie Treadwell natalie@treadwellalaska.com
